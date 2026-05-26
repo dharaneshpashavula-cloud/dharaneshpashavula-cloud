@@ -194,7 +194,7 @@ I'm always interested in discussing:
 
 ## 💬 Quote
 
-> "The best code is not the most complex—it's the most useful. The best systems are not the fastest—they're the most reliable. The best AI is not the smartest—it's the most helpful."
+> "The best code is not the most complex, it's the most useful. The best systems are not the fastest, they're the most reliable. The best AI is not the smartest, it's the most helpful."
 
 ---
 
