@@ -178,7 +178,7 @@ I'm always interested in discussing:
 
 | Platform | Profile |
 |----------|---------|
-| 💼 **LinkedIn** | [linkedin.com/in/dharanesh-pashavula](https://www.linkedin.com/in/dharanesh-pashavula) |
+| 💼 **LinkedIn** | [linkedin.com/in/dharanesh-pashavula](https://www.linkedin.com/in/dharanesh-pashavula-465653164/) |
 | 📧 **Email** | dharanesh.pashavula@gmail.com |
 | 🐙 **GitHub** | [@dharaneshpashavula-cloud](https://github.com/dharaneshpashavula-cloud) |
 
