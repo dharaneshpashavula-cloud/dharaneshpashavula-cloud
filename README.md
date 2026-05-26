@@ -17,7 +17,7 @@ I build intelligent, scalable systems that combine production-grade backend engi
 
 ## 💼 Featured Projects
 
-### 🎯 **Multi-Agent LLM Orchestration POC**
+### 🎯 **Multi-Agent LLM Orchestration**
 [**View Repository →**](https://github.com/dharaneshpashavula-cloud/AI_WebApp_MultiAgent_Orchestration)
 
 Intelligent document processing system with multi-agent LLM collaboration
