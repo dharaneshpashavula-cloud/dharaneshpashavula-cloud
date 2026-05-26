@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dharanesh Pashavula
 
-**Full-Stack Engineer | AI/LLM Architect | Backend Systems Specialist**
+**Senior Full-Stack Engineer | AI/LLM Architect | Backend Systems Specialist**
 
 I build intelligent, scalable systems that combine production-grade backend engineering with cutting-edge AI. Passionate about solving complex problems through elegant architecture and thoughtful AI integration.
 
